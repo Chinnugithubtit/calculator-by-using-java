@@ -1,1 +1,3 @@
-# calculator-by-using-java
+Define the Main Class: Start by creating a Java class, let's name it Calculator, where your main program logic will reside.
+Import Necessary Libraries: Import any libraries you'll need. For basic console input/output, you'll need to import java.util.Scanner.
+Main Method: Inside your Calculator class, define the main method. This method will be the entry point of your program.User Input: Use Scanner to get input from the user. Prompt the user to enter two numbers and the operation they want to perform (addition, subtraction, multiplication, division).Perform Operation: Based on the user's choice, perform the corresponding operation (addition, subtraction, multiplication, division) on the two numbers.Display Result: Output the result of the operation to the user.Repeat or Exit: Ask the user if they want to perform another calculation or exit the program. Handle the user's choice accordingly.
